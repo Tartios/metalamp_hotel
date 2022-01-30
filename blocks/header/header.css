@@ -1,0 +1,17 @@
+@import url(./__auth-btn/header__auth-btn.css);
+@import url(./__auth-btns/header__auth-btns.css);
+@import url(./__login-btn/header__login-btn.css);
+@import url(./__logo-link/header__logo-link.css);
+@import url(./__logo/header__logo.css);
+@import url(./__nav-link/header__nav-link.css);
+@import url(./__nav-list/header__nav-list.css);
+@import url(./__nav-lists/header__nav-lists.css);
+@import url(./__nav/header__nav.css);
+@import url(./__interface/header__interface.css);
+
+.header {
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    justify-content: space-around;
+}
