@@ -1,0 +1,8 @@
+@import url(./__service/booking__service.css);
+
+.booking {
+    background: url(../../img/background-booking.png) no-repeat;
+    background-size: contain;
+    max-width: 1440px;
+    height: 900px;
+}
